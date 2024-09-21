@@ -20,3 +20,6 @@ The **Verilog HDL** implementation in this project showcases how digital hardwar
 ### Tools Used
 - **Verilog HDL**: Hardware description language for FSM implementation.
 - **Xilinx Vivado**: Design and simulation tool for functional verification.
+  
+### Project Files
+[**Click here to view the project report**](https://github.com/bipriti/Moore_FSM_Based_Traffic-Light-Controller_VerilogHDL/blob/main/MooreFSM_DesignCode.v)
